@@ -1,5 +1,5 @@
-# [Dynamic Bonding Curve](https://docs.meteora.ag/product-overview/dynamic-bonding-curve-dbc-overview) - Bundler
-Token Creation + Bundle Buy with multiple wallets
+# [Dynamic Bonding Curve](https://docs.meteora.ag/product-overview/dynamic-bonding-curve-dbc-overview)  DBC Bundler
+Token Creation + Bundle Buy with multiple wallets in [Dynamic Bonding Curve](https://docs.meteora.ag/product-overview/dynamic-bonding-curve-dbc-overview)
 
 ## Tech Analysis
 This bot is using QuickNode's LilJit Add-on for bundling transactions. 
