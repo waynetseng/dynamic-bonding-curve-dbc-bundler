@@ -16,7 +16,8 @@ https://solscan.io/tx/5SfdHHxYsLC7jeyKUHSAtZqkubryaFqemock9Uinqfp4F27Led4Xe7RFHg
 https://solscan.io/tx/zHncDuwCGMoaR7F21LBP7pJaDH6z9ejRsuLkYnkeUo6NY1NsaiSKweb8Jgn6pXMxTThEMz2pFQdGnmPu2mY1q3f
 https://solscan.io/tx/35EjTiVevSaidRnPdUGxT5Tos9vNqYTQ6STCc3BVjJ66R5iKgUyyacx4Crhd8K2GFbpdbMsRtegBXDwcugEkt2BV
 https://solscan.io/tx/a8RqwyGZ5M6QLB24sMFWNDbwnvk4FhsSBq7enKxwLfDbfKFZDRWCGCALzwWu339UUJdxysPSiehavHodLdjQvKB
-![image](https://github.com/user-attachments/assets/88e6da3a-d15f-43db-b3b7-0d1fd42b1ab1)
+
+![image](https://github.com/user-attachments/assets/a3fb0f1e-31af-4fc6-ab30-e5a9f80a5499)
 
 ## Contact
 https://t.me/soljesty
